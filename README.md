@@ -1,4 +1,4 @@
-# rDEM: Professional Topographic Masterpiece
+# rDEM: Professional Topographic Map
 
 This repository contains a high-end R script designed to transform Digital Elevation Models (DEMs) into professional, museum-grade topographic maps using advanced ray-tracing and hillshading techniques.
 
