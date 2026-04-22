@@ -1,6 +1,6 @@
 # rDEM: Professional Topographic Map
 
-This repository contains a high-end R script designed to transform Digital Elevation Models (DEMs) into professional, museum-grade topographic maps using advanced ray-tracing and hillshading techniques.
+This repository contains a R script designed to transform Digital Elevation Models (DEMs) into professional topographic maps using ray-tracing and hillshading techniques.
 
 ## Features
 - **Advanced Shaded Relief**: Uses `rayshader` for realistic multi-directional shadows and ambient occlusion.
